@@ -1,22 +1,22 @@
 # Project Name
 
-This is a project with two main parts: a frontend built with React, Redux, Tailwind CSS, and ShadCN, and a backend built with Express and Node.js. 
+This is a project with two main parts: a InterviewProject built with React, Redux, Tailwind CSS, and ShadCN, and a backend built with Express and Node.js. 
 
 ## Project Structure
 
-- **Frontend**: A React-based frontend using Redux for state management, styled with Tailwind CSS, and enhanced with ShadCN.
+- **InterviewProject**: A React-based InterviewProject using Redux for state management, styled with Tailwind CSS, and enhanced with ShadCN.
 - **Backend**: A Node.js backend using Express for handling requests.
 
 ## Installation
 
-### Frontend
+### InterviewProject
 
-1. Navigate to the `frontend` folder.
+1. Navigate to the `InterviewProject` folder.
 
 2. Install the required dependencies:
 
     ```bash
-    cd frontend
+    cd InterviewProject
     npm install
     ```
 
@@ -49,7 +49,7 @@ This is a project with two main parts: a frontend built with React, Redux, Tailw
 
 ## Usage
 
-After setting up both the frontend and backend, you can start interacting with the application. The frontend communicates with the backend via API endpoints exposed by the Express server.
+After setting up both the InterviewProject and backend, you can start interacting with the application. The InterviewProject communicates with the backend via API endpoints exposed by the Express server.
 
 ## Contributing
 
