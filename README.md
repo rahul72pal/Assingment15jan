@@ -1,11 +1,11 @@
 # Project Name
 
-This is a project with two main parts: a InterviewProject built with React, Redux, Tailwind CSS, and ShadCN, and a backend built with Express and Node.js. 
+This is a project with two main parts: a InterviewProject built with React, Redux, Tailwind CSS, and ShadCN, and a interViewBackend built with Express and Node.js. 
 
 ## Project Structure
 
 - **InterviewProject**: A React-based InterviewProject using Redux for state management, styled with Tailwind CSS, and enhanced with ShadCN.
-- **Backend**: A Node.js backend using Express for handling requests.
+- **interViewBackend**: A Node.js interViewBackend using Express for handling requests.
 
 ## Installation
 
@@ -28,14 +28,14 @@ This is a project with two main parts: a InterviewProject built with React, Redu
 
     This will start the React app and you can view it in your browser at `http://localhost:3000`.
 
-### Backend
+### interViewBackend
 
-1. Navigate to the `backend` folder.
+1. Navigate to the `interViewBackend` folder.
 
 2. Install the required dependencies:
 
     ```bash
-    cd backend
+    cd interViewBackend
     npm install
     ```
 
@@ -49,7 +49,7 @@ This is a project with two main parts: a InterviewProject built with React, Redu
 
 ## Usage
 
-After setting up both the InterviewProject and backend, you can start interacting with the application. The InterviewProject communicates with the backend via API endpoints exposed by the Express server.
+After setting up both the InterviewProject and interViewBackend, you can start interacting with the application. The InterviewProject communicates with the interViewBackend via API endpoints exposed by the Express server.
 
 ## Contributing
 
